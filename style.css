@@ -1,0 +1,38 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url("/website/image/image3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+button{
+    align-items: center;
+    justify-content: center;
+    left: 50%;
+    top: 50%;
+    border-style: outset;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: gold;
+    padding: 5px;
+}
+p2{
+    font-family: "Chakra Petch";
+}
+p3{
+    font-family: "Chakra Petch";
+}
+p4{
+    font-family: "Chakra Petch";
+}
+h1{
+    font-family: "Press Start 2P";
+}
