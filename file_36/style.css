@@ -5,6 +5,7 @@
  body {
     background-image: url(/file_36/image2/pexels-irina-iriser-1379636.jpg);
     background-size: cover;
+     background-position: center center;
     font-family: sans-serif;
     display: flex;
     align-items: center;
